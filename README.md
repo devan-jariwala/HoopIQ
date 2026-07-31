@@ -219,6 +219,36 @@ HoopIQ/
 
 ---
 
+## ▶️ Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/devan-jariwala/HoopIQ.git
+cd HoopIQ
+```
+
+Create and activate a virtual environment:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Launch the application:
+
+```bash
+streamlit run app/app.py
+```
+
+---
+
 # 🚀 Future Improvements
 
 Potential future enhancements include:
