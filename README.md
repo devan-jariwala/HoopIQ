@@ -197,31 +197,23 @@ Feature importance analysis showed that recent production, season averages, shoo
 
 ---
 
-# 📁 Repository Structure
+## 📁 Repository Structure
 
 ```text
 HoopIQ/
-│
 ├── app/
 │   └── app.py
-│
 ├── data/
 │   └── processed/
-│
+├── images/
 ├── models/
 │   ├── points_model.pkl
 │   ├── rebounds_model.pkl
 │   ├── assists_model.pkl
 │   └── feature_columns.pkl
-│
 ├── notebooks/
-│
 ├── src/
-│
-├── images/
-│
 ├── requirements.txt
-│
 └── README.md
 ```
 
