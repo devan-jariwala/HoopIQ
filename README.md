@@ -1,12 +1,25 @@
-HoopIQ
+# 🏀 HoopIQ
 
-An end-to-end machine learning project that predicts NBA player points, rebounds, and assists using historical game data from the NBA API.
+### Predict NBA Player Performance Using Machine Learning
 
-Project Workflow
+An end-to-end machine learning application that predicts an NBA player's next-game **points, rebounds, and assists** using historical NBA data, custom feature engineering, and predictive modeling.
 
-1. Collect game logs with nba_api
-2. Engineer predictive features
-3. Build master dataset
-4. Clean dataset for modeling
-5. Train and evaluate machine learning models
-6. Compare model performance
+---
+
+## 🌐 Live Demo
+
+**Application:** https://hoopiq-nba.streamlit.app/
+
+**GitHub Repository:** https://github.com/devan-jariwala/HoopIQ
+
+---
+
+## 📸 Application Preview
+
+### Homepage
+
+![Homepage](images/homepage.png)
+
+### Example Prediction
+
+![Prediction](images/prediction.png)
